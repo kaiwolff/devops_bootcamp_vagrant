@@ -1,6 +1,6 @@
 # Vagrant
 
-Vagrant is a means of automating the setup of virtual machines. The instructions are saved in a vagrantfile. Through this method, it is possible to ensure everyone can run software in the same environment.
+Vagrant is a means of automating the setup of virtual machines. The instructions are saved in a vagrantfile. This ensures everyone is working in the same environment, and stops bugs from being blamed on a difference between machines.
 
 
 ![](images/dev-env.png)
