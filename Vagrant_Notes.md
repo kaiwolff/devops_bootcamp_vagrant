@@ -51,7 +51,9 @@ Finally, it is more efficient to simply run the shell script as part of the ```v
 config.vm.provision :shell, path: "provision.sh"
 ```
 
-This runs the ```provision.sh``` script, provided the path is given correctly.
+This runs the ```provision.sh``` script, provided the path is given correctly. With all things working, we have now set upa virtual machine running a webserver, and can do so again with a single command.
+
+
 
 
 
