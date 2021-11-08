@@ -76,3 +76,8 @@ Vagrant.configure("2") do |config|
 
 end
 ```
+# Appendix 2: Useful Links
+
+[Vagrant Docs on Provisioning](https://www.vagrantup.com/docs/provisioning/file)
+
+[Vagrant Docs on Shell](https://www.vagrantup.com/docs/provisioning/shell)
