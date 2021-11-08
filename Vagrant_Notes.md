@@ -13,7 +13,7 @@ These can be updated, but to apply the changes to the virtual machine, it is nec
 
 This is done in order to package all requirements associated with a project.
 
-One way to provision is via a shell script on the virtual machine.
+One way to provision is via a shell script on the virtual machine. This has to be set to be executable using ```chmod + [filename]```
 
 ```
 #!/bin/bash
